@@ -1,6 +1,6 @@
 ### Build docker image
 
-`make build`
+`make image`
 
 ### Generate files
 
